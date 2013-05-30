@@ -36,7 +36,7 @@
 	
 		<div id="home" class="hidden">&nbsp;
 		<div class="main_block">
-			home
+			<iframe src="http://player.vimeo.com/video/17535548" width="1200" height="500" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</div></div>
 		
 		<div id="works" class="hidden">&nbsp;
@@ -61,7 +61,7 @@
 		
 		<footer>
 			<div id="footer">
-				footer
+				&nbsp;
 			</div>
 		</footer>
 	</body>
