@@ -185,7 +185,7 @@
 			</div>
 		</div>
 		
-		<div class="text_block main_block"><span id="about" class="anchor"> </span>
+		<div id="about_div" class="text_block main_block"><span id="about" class="anchor"> </span>
 			<h2 class="bigNoodle">WHO AM I?</h2>
 			<p class="helvetica">
 				Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
@@ -196,7 +196,7 @@
 			<h3><a href="#" target="_blank" class="bigNoodle">DOWNLOAD CV</a></h3>
 		</div>
 		
-		<div  class="topping text_block min_text main_block"><span id="contact" class="anchor"> </span>
+		<div id="contact_div" class="topping text_block min_text main_block"><span id="contact" class="anchor"> </span>
 			<h2 class="data_contact helvetica">Contact Info</h2>
 			<h4 class="bigNoodle">IF YOU WOULD LIKE TO GET IN TOUCH WITH ME:</h4>
 			<h3 class="contact_email bigNoodle">LOICMARQUES@GMAIL.COM</h3>
@@ -302,15 +302,35 @@
 	<script src="jquery.js"></script>
 	<script>
 		
+		
+		$('#nav li a').click(
+			function() {
+				var href = $(this).attr('href');
+				$('#nav li a').css('border-bottom', '0');
+				$('#nav li a').css('color', '#fff');
+				$('#nav li a img').attr("src","imgs/home_icon.png");
+				$(this).css('border-bottom', '1px solid #0abcd6');
+				$(this).css('color', '#848484');
+				if(href == '#about')
+				{
+					$('#about_div').css('border', '1px solid #0ABCD6');
+				}
+				if(href == '#contact')
+				{
+					$('#contact_div').css('border', '1px solid #0ABCD6');
+				}
+				if(href == '#')
+				{
+					$(this).children("img").attr('src', 'imgs/home_icon_hover.png!important');
+				}
+		});
+		
 		$('#nav li a img').hover(
 			function() {
-				$('#nav li a img').attr("src","imgs/home_icon_hover.png");
-			},
-			function() {
-				$('#nav li a img').attr("src","imgs/home_icon.png");
+				$(this).attr("src","imgs/home_icon_hover.png");
 			}
 		);
-		
+		/*
 		$("img.img_pop").click(function() {
 			var src= this.src;
 			var img= src.split('imgs/')[1];
@@ -325,7 +345,7 @@
 			var id= this.title;
 			var id = '#'+id;
 			$(id).hide();
-		});
+		});*/
 		
 		
 		
