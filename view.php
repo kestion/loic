@@ -40,46 +40,18 @@
 		<div id="stickyalias"></div>
 		
 		<div  class="main_block"><span id="home" class="anchor"> </span><span class="anchor"> </span>
-			<iframe src="http://player.vimeo.com/video/17535548" width="1200" height="500" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+			<iframe width="1200" height="500" src="http://www.youtube.com/embed/gww7TOW1NGQ" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
 		<div class="main_block"><span id="works" class="anchor"> </span>
 			<div class="img_block light rec_side">
-				<img src="imgs/mode.png" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/frankie0.jpeg" alt="work1" class="rec_side img_pop" />
 			</div>
 			<div class="popup_w">
 				<div id="mode" class="popup light" style="display:none;">
 					<div class="close_pop" title="mode">x</div>
 					<h2>MODE</h2>
-					<img src="imgs/mode.png" alt="work1" />
-					<p>
-						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
-					</p>
-				</div>
-			</div>
-
-			<div class="img_block dark rec_up">
-				<img src="imgs/mode0.png" alt="work1" class="rec_up img_pop" />
-			</div>
-			<div class="popup_w">
-				<div id="mode0" class="popup dark" style="display:none;">
-					<div class="close_pop" title="mode0">x</div>
-					<h2>MODE 0</h2>
-					<img src="imgs/mode0.png" alt="work1" />
-					<p>
-						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
-					</p>
-				</div>
-			</div>
-			
-			<div class="img_block light rec_up">
-				<img src="imgs/mode1.png" alt="work1" class="rec_up img_pop" />
-			</div>
-			<div class="popup_w">
-				<div id="mode1" class="popup light" style="display:none;">
-					<div class="close_pop" title="mode1">x</div>
-					<h2>MODE 1</h2>
-					<img src="imgs/mode1.png" alt="work1" />
+					<img src="imgs/frankie0.jpeg" alt="work1" />
 					<p>
 						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
 					</p>
@@ -87,13 +59,125 @@
 			</div>
 			
 			<div class="img_block dark rec_side">
-				<img src="imgs/mode2.png" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/frankie1.jpeg" alt="work1" class="rec_side img_pop" />
 			</div>
 			<div class="popup_w">
 				<div id="mode2" class="popup dark" style="display:none;">
 					<div class="close_pop" title="mode2">x</div>
 					<h2>MODE 2</h2>
-					<img src="imgs/mode2.png" alt="work1" />
+					<img src="imgs/frankie1.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/frankie2.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup light" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/frankie2.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/frankie3.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup dark" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/frankie3.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/frankie4.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup light" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/frankie4.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/horium0.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup dark" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/horium0.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/horium1.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup light" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/horium1.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/horium2.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup dark" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/horium2.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/horium3.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup light" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/horium3.jpeg" alt="work1" />
+					<p>
+						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+					</p>
+				</div>
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/misc0.jpeg" alt="work1" class="rec_side img_pop" />
+			</div>
+			<div class="popup_w">
+				<div id="mode2" class="popup dark" style="display:none;">
+					<div class="close_pop" title="mode2">x</div>
+					<h2>MODE 2</h2>
+					<img src="imgs/misc0.jpeg" alt="work1" />
 					<p>
 						Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
 					</p>
@@ -112,13 +196,13 @@
 			<h3><a href="#" target="_blank" class="bigNoodle">DOWNLOAD CV</a></h3>
 		</div>
 		
-		<div  class="text_block min_text main_block"><span id="contact" class="anchor"> </span>
+		<div  class="topping text_block min_text main_block"><span id="contact" class="anchor"> </span>
 			<h2 class="data_contact helvetica">Contact Info</h2>
 			<h4 class="bigNoodle">IF YOU WOULD LIKE TO GET IN TOUCH WITH ME:</h4>
 			<h3 class="contact_email bigNoodle">LOICMARQUES@GMAIL.COM</h3>
 		</div>
 		
-		<div class="text_block mid_block main_block"><span id="links" class="anchor"> </span>
+		<!--<div class="text_block mid_block main_block"><span id="links" class="anchor"> </span>
 			<h2 class="helvetica links_title">Links</h2>
 			<div class="midle">
 				<div class="left">
@@ -203,7 +287,7 @@
 							<p class="bigNoodle left">SKYPE</p>
 						</a>
 					</div>
-				</div>
+				</div>-->
 			<div class="clear"> </div>
 			</div>
 		</div>
