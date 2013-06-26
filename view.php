@@ -15,7 +15,7 @@
 			<h1 class="bigNoodle"><a href="#" title="homepage">Loic Marques</a></h1>
 			<h2 class="helvetica">2D/3D art</h2>
 			<img src="imgs/header_sep.png" alt="header separation" width="550" height="30" />
-			<h3 class="helvetica">loicmarques93@gmail.com</h3>
+			<h3 class="helvetica"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">loicmarques93@gmail.com</a></h3>
 		
 	</div>
 		</header>
@@ -26,11 +26,11 @@
 			<div id="nav">
 				<ul>
 					<li><a href="#works" class="helvetica" title="anchor">Works</a></li>
-					<li><a href="#about" class="helvetica" title="anchor">About</a></li>
+					<li><a href="#contact" class="helvetica" title="anchor">Contact</a></li>
 					<li><a href="#" class="helvetica liner" title="anchor">
 						<img src="imgs/home_icon.png" alt="home icon" />
 					</a></li>
-					<li><a href="#contact" class="helvetica" title="anchor">Contact</a></li>
+					<li><a href="#about" class="helvetica" title="anchor">About</a></li>
 					<li><a href="#links" class="helvetica" title="anchor">Links</a></li>
 				</ul>
 			</div>
@@ -131,6 +131,12 @@
 			
 		</div>
 		
+		<div id="contact_div" class="topping text_block min_text main_block"><span id="contact" class="anchor"> </span>
+			<h2 class="data_contact helvetica">Contact Info</h2>
+			<h4 class="bigNoodle">IF YOU WOULD LIKE TO GET IN TOUCH WITH ME:</h4>
+			<h3 class="contact_email bigNoodle"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">LOICMARQUES93@GMAIL.COM</a></h3>
+		</div>
+		
 		<div id="about_div" class="text_block main_block"><span id="about" class="anchor"> </span>
 			<h2 class="bigNoodle">WHO AM I?</h2>
 			<p class="helvetica">
@@ -140,12 +146,6 @@
 				Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
 			</p>
 			<h3><a href="cv.pdf" target="_blank" class="bigNoodle">DOWNLOAD CV</a></h3>
-		</div>
-		
-		<div id="contact_div" class="topping text_block min_text main_block"><span id="contact" class="anchor"> </span>
-			<h2 class="data_contact helvetica">Contact Info</h2>
-			<h4 class="bigNoodle">IF YOU WOULD LIKE TO GET IN TOUCH WITH ME:</h4>
-			<h3 class="contact_email bigNoodle">LOICMARQUES@GMAIL.COM</h3>
 		</div>
 		
 		<!--<div class="text_block mid_block main_block"><span id="links" class="anchor"> </span>
