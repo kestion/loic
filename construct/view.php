@@ -14,7 +14,7 @@
 	<div id="header">
 			<img src="imgs/logo.png" width="400" height="100" />
 			<h2 class="helvetica">Character Artist</h2>
-			<img src="imgs/header_sep.png" alt="header separation" width="550" height="30" />
+			<img src="imgs/header_sep.jpg" alt="header separation" width="550" height="30" />
 			<h3 class="helvetica"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">loicmarques93@gmail.com</a></h3>
 		
 	</div>
@@ -39,6 +39,10 @@
 	
 		
 		<div class="main_block"><span id="home" class="anchor"> </span>
+			
+			<div class="title_proj">
+				Oro [Fighting Games Zbrush Challenge]
+			</div>
 			<div class="img_block light rec_side">
 				<img src="imgs/00.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
@@ -55,6 +59,13 @@
 				<img src="imgs/03.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
 			
+			<div style="margin-bottom:25px; padding:50px;">
+				<img src="imgs/header_sep.jpg" alt="header separation" width="550" height="30" />
+			</div>
+			
+			<div class="title_proj">
+				Franky [Character Design]
+			</div>
 			<div class="img_block dark rec_side">
 				<img src="imgs/04.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
@@ -206,15 +217,15 @@
 				$('#nav li a').css('border-bottom', '0');
 				$('#nav li a').css('color', '#fff');
 				$('#nav li a img').attr("src","imgs/home_icon.png");
-				$(this).css('border-bottom', '1px solid #0abcd6');
+				$(this).css('border-bottom', '1px solid #ff3900');
 				$(this).css('color', '#848484');
 				if(href == '#about')
 				{
-					$('#about_div').css('border', '1px solid #0ABCD6');
+					$('#about_div').css('border', '1px solid #ff3900');
 				}
 				if(href == '#contact')
 				{
-					$('#contact_div').css('border', '1px solid #0ABCD6');
+					$('#contact_div').css('border', '1px solid #ff3900');
 				}
 				if(href == '#')
 				{

@@ -76,7 +76,7 @@ nav, footer
 .anchor{position:absolute; top: -150px; }
 .main_block{min-height:500px;}
 
-header h1 a, header h2{text-transform:uppercase;}
+header h1 a{text-transform:uppercase;}
 header h3{text-transform:lowercase; padding-bottom:15px;}
 header h1 a{font-size:70px;color:#000; text-decoration:none;}
 header h2{font-size:25px;}
@@ -104,7 +104,7 @@ nav ul li a img{position:absolute;margin-left:-40px; margin-top:5px;}
 .img_block{padding:0px; margin-bottom:25px !important;}
 .light{background:#fff; border:1px solid #fff;}
 .dark{background:#fff; border:1px solid #fff;}
-.rec_side{height:629px; width:1200px; margin:auto; text-align:center;}
+.rec_side{/*height:629px;*/ width:1200px; margin:auto; text-align:center;}
 .rec_up{height:500px; width:300px; margin:auto; text-align:center;}
 /*.square{height:500px; width:500px; margin:auto; text-align:center;}
 .img_pop{cursor:pointer;}*/
