@@ -40,9 +40,9 @@
 		
 		<div class="main_block"><span id="home" class="anchor"> </span>
 			
-			<div class="title_proj">
+			<!--<div class="title_proj">
 				Oro [Fighting Games Zbrush Challenge]
-			</div>
+			</div>-->
 			<div class="img_block light rec_side">
 				<img src="imgs/00.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
@@ -60,12 +60,12 @@
 			</div>
 			
 			<div style="margin-bottom:25px; padding:50px;">
-				<img src="imgs/header_sep.jpg" alt="header separation" width="550" height="30" />
+				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
-			<div class="title_proj">
+			<!--<div class="title_proj">
 				Franky [Character Design]
-			</div>
+			</div>-->
 			<div class="img_block dark rec_side">
 				<img src="imgs/04.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
@@ -90,7 +90,21 @@
 				<img src="imgs/09.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
 		
+			<div style="margin-bottom:25px; padding:50px;">
+				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+			</div>
 			
+			<!--<div class="title_proj">
+				Alien[WIP]
+			</div>-->
+			<div class="img_block light rec_side">
+				<img src="imgs/10.jpg" alt="work1" class="rec_side img_pop" />
+			</div>
+			
+		</div>
+		
+		<div style="margin-top:150px;">
+			<center><img src="imgs/sep.jpg" alt="header separation" width="550" height="30" /></center>
 		</div>
 		
 		<div id="contact_div" class="topping text_block min_text main_block"><span id="contact" class="anchor"> </span>
@@ -99,13 +113,14 @@
 			<h3 class="contact_email bigNoodle"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">LOICMARQUES93@GMAIL.COM</a></h3>
 		</div>
 		
-		<div id="about_div" class="text_block main_block"><span id="about" class="anchor"> </span>
+		<div style="margin-bottom:125px;">
+			<center><img src="imgs/sep.jpg" alt="header separation" width="550" height="30" /></center>
+		</div>
+		
+		<div id="about_div" class="text_block main_block mid_block but_long"><span id="about" class="anchor"> </span>
 			<h2 class="bigNoodle">WHO AM I?</h2>
 			<p class="helvetica">
-				Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
-				Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
-				Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
-				Bacon ipsum dolor sit amet leberkas beef ribs bacon hamburger. Andouille tail tongue venison. Ball tip venison doner ground round sausage filet mignon pastrami spare ribs beef ribs brisket pork loin jowl flank rump tongue. Sausage venison corned beef pork chop ribeye tenderloin spare ribs drumstick pork loin chicken short loin tail. Corned beef shankle drumstick sirloin tenderloin. Shoulder beef pancetta shankle capicola pork ham hamburger jerky cow.
+				Born in 1990 and raised in the suburbs of Paris, I graduated from school in 2013. I'm now specializing in character, game modeling, digital sculpting, and texturing. I am most proeficient with Zbrush and Photoshop but i'm very versatile and can do a lot of differents things: Web/Interface/2D or even Sound Design. I love to give shape to concepts, and I've always had a passion for characters in games and movies. I am eager to improve more and more as an artist; to always add more subtleties and life to my models. 
 			</p>
 			<h3><a href="cv.pdf" target="_blank" class="bigNoodle">DOWNLOAD CV</a></h3>
 		</div>
