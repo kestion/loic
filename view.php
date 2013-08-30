@@ -51,10 +51,6 @@
 				<img src="imgs/00.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
 			
-			<div class="img_block light rec_side">
-				<img src="imgs/01.jpg" alt="work1" class="rec_side img_pop" />
-			</div>
-			
 			<div class="img_block dark rec_side">
 				<img src="imgs/02.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
