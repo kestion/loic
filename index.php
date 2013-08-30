@@ -1,3 +1,3 @@
 <?php
 
-	include 'view_res.php';
+	include 'view.php';

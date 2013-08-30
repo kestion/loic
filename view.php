@@ -44,6 +44,10 @@
 				Oro [Fighting Games Zbrush Challenge]
 			</div>-->
 			<div class="img_block light rec_side">
+				<img src="imgs/11.jpg" alt="work1" class="rec_side img_pop" />
+			</div>
+			
+			<div class="img_block light rec_side">
 				<img src="imgs/00.jpg" alt="work1" class="rec_side img_pop" />
 			</div>
 			
@@ -120,7 +124,7 @@
 		<div id="about_div" class="text_block main_block mid_block but_long"><span id="about" class="anchor"> </span>
 			<h2 class="bigNoodle">WHO AM I?</h2>
 			<p class="helvetica">
-				Born in 1990 and raised in the suburbs of Paris, I graduated from school in 2013. I'm now specializing in character, game modeling, digital sculpting, and texturing. I am most proeficient with Zbrush and Photoshop but i'm very versatile and can do a lot of differents things: Web/Interface/2D or even Sound Design. I love to give shape to concepts, and I've always had a passion for characters in games and movies. I am eager to improve more and more as an artist; to always add more subtleties and life to my models. 
+				Born in 1990 and raised in the suburbs of Paris, I graduated from school in 2013. I'm now specializing in character, game modeling, digital sculpting, and texturing. I am most proficient with Zbrush and Photoshop but i'm very versatile and can do a lot of differents things: Web/Interface/2D or even Sound Design. I love to give shape to concepts, and I've always had a passion for characters in games and movies. I am eager to improve more and more as an artist; to always add more subtleties and life to my models. 
 			</p>
 			<h3><a href="cv.pdf" target="_blank" class="bigNoodle">DOWNLOAD CV</a></h3>
 		</div>
