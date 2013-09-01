@@ -44,19 +44,35 @@
 				Oro [Fighting Games Zbrush Challenge]
 			</div>-->
 			<div class="img_block light rec_side">
-				<img src="imgs/11.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/14.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block light rec_side">
-				<img src="imgs/00.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/13.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block dark rec_side">
-				<img src="imgs/02.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/12.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block light rec_side">
-				<img src="imgs/03.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/11.jpg" alt="oro" class="rec_side img_pop" />
+			</div>
+			
+			<div style="margin-bottom:25px; padding:50px;">
+				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+			</div>
+			
+			<!--<div class="title_proj">
+				Roboto [Character Design]
+			</div>-->
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/10.jpg" alt="blodia" class="rec_side img_pop" />
+			</div>
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/09.jpg" alt="blodia" class="rec_side img_pop" />
 			</div>
 			
 			<div style="margin-bottom:25px; padding:50px;">
@@ -67,27 +83,27 @@
 				Franky [Character Design]
 			</div>-->
 			<div class="img_block dark rec_side">
-				<img src="imgs/04.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/08.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block light rec_side">
-				<img src="imgs/05.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/07.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block dark rec_side">
-				<img src="imgs/06.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/06.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block dark rec_side">
-				<img src="imgs/07.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/05.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block dark rec_side">
-				<img src="imgs/08.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/04.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
 			<div class="img_block dark rec_side">
-				<img src="imgs/09.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/03.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 		
 			<div style="margin-bottom:25px; padding:50px;">
@@ -97,8 +113,16 @@
 			<!--<div class="title_proj">
 				Alien[WIP]
 			</div>-->
+			<div class="img_block dark rec_side">
+				<img src="imgs/02.jpg" alt="alien prince" class="rec_side img_pop" />
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/01.jpg" alt="alien prince" class="rec_side img_pop" />
+			</div>
+			
 			<div class="img_block light rec_side">
-				<img src="imgs/10.jpg" alt="work1" class="rec_side img_pop" />
+				<img src="imgs/00.jpg" alt="alien prince" class="rec_side img_pop" />
 			</div>
 			
 		</div>
