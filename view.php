@@ -64,29 +64,21 @@
 			</div>
 			
 			<!--<div class="title_proj">
-				Roboto [Character Design]
-			</div>-->
-			
-			<div class="img_block light rec_side">
-				<img src="imgs/10.jpg" alt="blodia" class="rec_side img_pop" />
-			</div>
-			
-			<div class="img_block light rec_side">
-				<img src="imgs/09.jpg" alt="blodia" class="rec_side img_pop" />
-			</div>
-			
-			<div style="margin-bottom:25px; padding:50px;">
-				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
-			</div>
-			
-			<!--<div class="title_proj">
 				Franky [Character Design]
 			</div>-->
+			<div class="img_block dark rec_side">
+				<img src="imgs/10.jpg" alt="franky" class="rec_side img_pop" />
+			</div>
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/09.jpg" alt="franky" class="rec_side img_pop" />
+			</div>
+			
 			<div class="img_block dark rec_side">
 				<img src="imgs/08.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
-			<div class="img_block light rec_side">
+			<div class="img_block dark rec_side">
 				<img src="imgs/07.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
@@ -98,14 +90,22 @@
 				<img src="imgs/05.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
-			<div class="img_block dark rec_side">
-				<img src="imgs/04.jpg" alt="franky" class="rec_side img_pop" />
+			<div style="margin-bottom:25px; padding:50px;">
+				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
-			<div class="img_block dark rec_side">
-				<img src="imgs/03.jpg" alt="franky" class="rec_side img_pop" />
+			<!--<div class="title_proj">
+				Roboto [Character Design]
+			</div>-->
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/04.jpg" alt="blodia" class="rec_side img_pop" />
 			</div>
-		
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/03.jpg" alt="blodia" class="rec_side img_pop" />
+			</div>
+			
 			<div style="margin-bottom:25px; padding:50px;">
 				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
 			</div>
