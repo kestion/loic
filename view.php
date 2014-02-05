@@ -20,15 +20,13 @@
 	<body>
 		
 		<header>
-	<div id="header">
-			<img src="imgs/logo.png" width="400" height="100" />
-			<h2 class="helvetica">Character Artist</h2>
-			<img src="imgs/header_sep.jpg" alt="header separation" width="550" height="30" />
-			<h3 class="helvetica"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">loicmarques93@gmail.com</a></h3>
-		
-	</div>
+			<div id="header">
+				<img src="imgs/logo.png" width="400" height="100" />
+				<h2 class="helvetica">Character Artist</h2>
+				<img src="imgs/header_sep.jpg" alt="header separation" width="550" height="30" />
+				<h3 class="helvetica"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">loicmarques93@gmail.com</a></h3>		
+			</div>
 		</header>
-		
 		
 		<div id="nav_w">
 		<nav>
@@ -49,6 +47,18 @@
 		
 		<div class="main_block"><span id="home" class="anchor"> </span>
 			
+			<!--<div class="title_proj">
+				Alien The Intruder[Concept]
+			</div>-->
+
+			<div class="img_block light rec_side">
+				<img src="imgs/15.jpeg" alt="alien intruder" class="rec_side img_pop" />
+			</div>
+
+			<div style="margin-bottom:25px; padding:50px;">
+				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+			</div>
+
 			<!--<div class="title_proj">
 				Oro [Fighting Games Zbrush Challenge]
 			</div>-->
