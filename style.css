@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background:url('imgs/bg_noise.jpg');
+	background:#f1f1f1;
 }
 ol, ul {
 	list-style: none;
@@ -53,10 +53,10 @@ table {
 /***** END OF CSS RESET *****/
 
 @font-face {font-family: "BigNoodleTitling"; 	src: url('big_noodle_titling.ttf');}
-@font-face {font-family: "Helvetica"; 	src: url('helvetica.ttf');}
+@font-face {font-family: "Luzro"; 	src: url('luzro.ttf');}
 
 .bigNoodle{font-family: BigNoodleTitling, arial;}
-.helvetica{font-family: Helvetica, arial;}
+.luzro{font-family: Luzro, arial;}
 
 /***** STYLESHEET *****/
 header{background:#fff;}
@@ -72,7 +72,7 @@ nav, footer
 	width:100%;
 }
 
-.title_proj{color:#FF3900; margin-bottom:15px; padding:15px; font-size:31px; font-family:helvetica; font-weight:bold;}
+.title_proj{color:#FF3900; margin-bottom:15px; padding:15px; font-size:31px; font-family:Luzro; font-weight:bold;}
 
 .main_block{ position:relative; margin-top:40px; }
 .anchor{position:absolute; top: -150px; }
@@ -82,7 +82,7 @@ header h1 a{text-transform:uppercase;}
 header h3{text-transform:lowercase; padding-bottom:15px;}
 header h1 a{font-size:70px;color:#000; text-decoration:none;}
 header h2{font-size:25px;}
-header h3{font-size:21px;}
+header h3{font-size:24px;}
 
 #stickyalias{display: none; height:5px;}
 
@@ -97,19 +97,15 @@ nav
 	margin-bottom:50px;
 }
 
-nav ul{text-align:center; margin-right:50px;}
-nav ul li{display:inline; margin:0px 50px;}
+nav ul{text-align:center; padding-left:10px;}
+nav ul li{display:inline; margin:0px 25px;}
 nav ul li a{text-decoration:none; color:#fff; font-size:21px; line-height:50px;}
 nav ul li a:hover{border-bottom:1px solid #ff3900!important; color:#848484!important;}
-nav ul li a img{position:absolute;margin-left:-40px; margin-top:5px;}
+nav ul li a img{position:absolute; margin-top:5px; margin-left:-20px;}
 
 .img_block{padding:0px; margin-bottom:25px !important;}
-/*.light{background:#fff; border:1px solid #fff;}*/
-.dark{background:#fff; border:1px solid #fff;}
 .rec_side{/*height:629px;*/ width:1200px; margin:auto; text-align:center;}
 .rec_up{height:500px; width:300px; margin:auto; text-align:center;}
-/*.square{height:500px; width:500px; margin:auto; text-align:center;}
-.img_pop{cursor:pointer;}*/
 
 
 .popup_w
@@ -163,6 +159,10 @@ nav ul li a img{position:absolute;margin-left:-40px; margin-top:5px;}
     width: 500px;
     padding-top:15px;
 }
+#top_anchor{padding-top:70px; margin:auto; width:60px; text-align: center;}
+#top_anchor a{color:#333; font-size:20px; font-weight:bold; text-decoration: none;}
+#top_anchor a img{width: 60px;}
+#top_anchor:hover a{color:#ff3900;}
 .mailto{text-decoration:none; color:inherit;}
 .mailto:hover{color:#ff3900;}
 .min_text{width:700px; min-height:0px; height:215px!important;}
@@ -174,7 +174,7 @@ h2.links_title{font-size:33px; color:#999999;}
 .link a{width:auto;}
 footer
 {
-	margin-top:250px;
+	margin-top:100px;
 	height:50px;
 	background:#333333;
 	line-height:50px;
@@ -182,5 +182,27 @@ footer
 }
 
 footer a{font-size:25px; color:#fff; text-decoration:none;}
+
+
+/***** MEDIA QUERIES *****/
+@media screen and (max-width: 1200px) {
+  .rec_side{width:1000px;}
+}
+@media screen and (max-width: 100px) {
+  .rec_side{width:800px;}
+}
+@media screen and (max-width: 800px) {
+  .rec_side{width:600px;}
+}
+@media screen and (max-width: 600px) {
+  .rec_side{width:400px;}
+}
+@media screen and (max-width: 400px) {
+  .rec_side{width:200px;}
+}
+@media screen and (max-width: 200px) {
+  .rec_side{width:100px;}
+}
+
 
 /***** END OF STYLESHEET *****/
