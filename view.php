@@ -51,10 +51,14 @@
 				Alien The Intruder[Concept]
 			</div>-->
 
-			<div class="img_block light rec_side">
-				<img src="imgs/15.jpeg" alt="alien intruder" class="rec_side img_pop" />
+            <div class="img_block light rec_side">
+				<img src="imgs/17.jpg" alt="alien intruder" class="rec_side img_pop" />
 			</div>
-
+			
+            <div class="img_block light rec_side">
+				<img src="imgs/16.jpg" alt="alien intruder" class="rec_side img_pop" />
+			</div>
+		
 			<div style="margin-bottom:25px; padding:50px;">
 				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
 			</div>
@@ -62,29 +66,35 @@
 			<!--<div class="title_proj">
 				Oro [Fighting Games Zbrush Challenge]
 			</div>-->
-			<div class="img_block light rec_side">
+			
+			 <div class="img_block light rec_side">
+				<img src="imgs/15.jpg" alt="oro" class="rec_side img_pop" />
+			</div>
+			
+			 <div class="img_block light rec_side">
 				<img src="imgs/14.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			
-			<div class="img_block light rec_side">
+				<div class="img_block light rec_side">
 				<img src="imgs/13.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			
-			<div class="img_block dark rec_side">
-				<img src="imgs/12.jpg" alt="oro" class="rec_side img_pop" />
-			</div>
-			
 			<div class="img_block light rec_side">
-				<img src="imgs/11.jpg" alt="oro" class="rec_side img_pop" />
+				<img src="imgs/12.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			
 			<div style="margin-bottom:25px; padding:50px;">
 				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
-			<!--<div class="title_proj">
+				<!--<div class="title_proj">
 				Franky [Character Design]
 			</div>-->
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/11.jpg" alt="franky" class="rec_side img_pop" />
+			</div>
+			
 			<div class="img_block dark rec_side">
 				<img src="imgs/10.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
@@ -97,19 +107,28 @@
 				<img src="imgs/08.jpg" alt="franky" class="rec_side img_pop" />
 			</div>
 			
-			<div class="img_block dark rec_side">
-				<img src="imgs/07.jpg" alt="franky" class="rec_side img_pop" />
-			</div>
-			
-			<div class="img_block dark rec_side">
-				<img src="imgs/06.jpg" alt="franky" class="rec_side img_pop" />
-			</div>
-			
-			<div class="img_block dark rec_side">
-				<img src="imgs/05.jpg" alt="franky" class="rec_side img_pop" />
-			</div>
-			
 			<div style="margin-bottom:25px; padding:50px;">
+				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+			</div>
+			
+			<!--<div class="title_proj">
+				Kerrigan
+			</div>-->
+			
+			<div class="img_block light rec_side">
+				<img src="imgs/07.jpg" alt="kerrigan" class="rec_side img_pop" />
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/06.jpg" alt="kerrigan" class="rec_side img_pop" />
+			</div>
+			
+			<div class="img_block dark rec_side">
+				<img src="imgs/05.jpg" alt="kerrigan" class="rec_side img_pop" />
+			</div>
+			
+		
+		    <div style="margin-bottom:25px; padding:50px;">
 				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
