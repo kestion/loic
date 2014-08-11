@@ -24,7 +24,7 @@
 				<img src="imgs/logo.png" width="400" height="100" />
 				<h2 class="luzro">Character Artist</h2>
 				<img src="imgs/header_sep.jpg" alt="header separation" width="550" height="30" />
-				<h3 class="luzro"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">loicmarques93@gmail.com</a></h3>		
+				<h3 class="luzro"><a class="mailto" href="mailto:loicmarques93@gmail.com?subject=Recrut_website">loicmarques93<span style="font-family:arial">@</span>gmail.com</a></h3>		
 			</div>
 		</header>
 		
@@ -55,7 +55,7 @@
 				<img src="imgs/16.jpg" alt="alien intruder" class="rec_side img_pop" />
 			</div>
 			<div style="margin-bottom:25px; padding:50px;">
-				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+				<img src="imgs/sep2.jpg" alt="header separation" width="550" height="30" />
 			</div>
 
 			<!--<div class="title_proj">
@@ -74,7 +74,7 @@
 				<img src="imgs/12.jpg" alt="oro" class="rec_side img_pop" />
 			</div>
 			<div style="margin-bottom:25px; padding:50px;">
-				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+				<img src="imgs/sep2.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
 			<!--<div class="title_proj">
@@ -90,7 +90,7 @@
 				<img src="imgs/05.jpg" alt="kerrigan" class="rec_side img_pop" />
 			</div>
 		    <div style="margin-bottom:25px; padding:50px;">
-				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+				<img src="imgs/sep2.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
 			<!--<div class="title_proj">
@@ -103,7 +103,7 @@
 				<img src="imgs/03.jpg" alt="blodia" class="rec_side img_pop" />
 			</div>
 			<div style="margin-bottom:25px; padding:50px;">
-				<img src="imgs/sep.jpg" alt="header separation" width="550" height="30" />
+				<img src="imgs/sep2.jpg" alt="header separation" width="550" height="30" />
 			</div>
 			
 			<!--<div class="title_proj">
